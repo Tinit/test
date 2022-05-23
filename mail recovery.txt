@@ -1,0 +1,31 @@
+Kính gửi: Các Anh/ Chị
+
+Để thuận tiện cho người dùng tự phục hồi mật khẩu của mail Zimbra, Khối CNTT xin gởi tài liệu hướng dẫn sử dụng tính năng "Password recovery account" trên Mail zimbra.
+
+Các Anh/Chị tham khảo tài liệu đính kèm hoặc trên Eoffice - Thư viện tài liệu - Văn bản nội bộ - Infrastructure Dept.
+Mọi vấn đề liên quan vui lòng liên hệ IT Khu vực hoặc email ithelpdesk@indovinabank.com.vn để được hỗ trợ.
+
+Trân trọng,
+
+---
+
+Dear: Sirs and Madams,
+
+In order for users to recover the password of Mail Zimbra, IT Division would like to send document to use the "Password recovery account" feature on Mail zimbra.
+
+Please refer to attached documents or on Eoffice - Library documents - Internal documents - Infrastructure Department.
+For further information and support please contact IT Area or send email to ithelpdesk@indovinabank.com.vn to get add support.
+
+Regards,
+
+
+-----------------
+Chốt vấn đề nè
+
+Liên quan hỗ trợ kỹ thuật nếu điện thoại/email thì forward IT phụ trách khu vực hoặc phòng hạ tầng 
+- IT Khu vực Phía bắc: đầu mối Mr.Phong
+- IT miền Trung: đầu mối Mr.Thi
+- IT miền Nam: đầu mối Mr.Tín
+
+Liên quan hỗ trợ ứng dụng nếu điện thoại/email thì forward phòng Hỗ trợ và vận hành ứng dụng.
+- Đầu mối hỏi chị Dương
